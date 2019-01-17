@@ -1,0 +1,26 @@
+{
+  "name": "mongo-spike",
+  "version": "1.0.0",
+  "description": "MongoDB Spike",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estigmata/mongo-spike.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "MongoDB"
+  ],
+  "author": "Nestor Otondo <nestor.otondo@creativetours.com.bo>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estigmata/mongo-spike/issues"
+  },
+  "homepage": "https://github.com/estigmata/mongo-spike#readme",
+  "devDependencies": {
+    "mongoose": "^5.4.4"
+  }
+}
